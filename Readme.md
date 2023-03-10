@@ -31,6 +31,6 @@ git clone https://github.com/candradwicahyo/hex-color-generator.git
 
 ## preview dan demo 
 
-![preview](httpz://github.com/candradwicahyo/hex-color-generator/blob/master/image.jpg)
+![preview](https://github.com/candradwicahyo/hex-color-generator/blob/master/image.jpg)
 
 [tekan link ini](https://candradwicahyo.github.io/hex-color-generator) untuk mencoba demo
